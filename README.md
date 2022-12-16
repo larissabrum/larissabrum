@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Lari 👋
 
 
-- 🔭 Advogada de formação, desenvolvedora por paixão. Atualmente procuro uma vaga júnior como dev. front-end.
+- 🔭 Advogada de formação, desenvolvedora por paixão. 
 - 🌱 Estou aprofundando os estudos em ReactJS no momento.
 - 😄 Meus pronomes são: ela/dela
 
