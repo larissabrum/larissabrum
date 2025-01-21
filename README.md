@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Lari 👋
 
 
-- 🔭 Advogada de formação, desenvolvedora por paixão. 
-- 🌱 Estou aprofundando os estudos em ReactJS no momento.
+- 🔭 Advogada de formação, analista de dados por paixão. 
+- 🌱 Estou aprofundando os estudos em SQL e Power BI no momento.
 - 😄 Meus pronomes são: ela/dela
 
 <div align="center">
